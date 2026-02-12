@@ -9,10 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: karinearaujo1
           outputs: dist/snake.svg
+
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v2
         with:
