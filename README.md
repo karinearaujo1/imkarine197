@@ -37,7 +37,7 @@
 ![Snake animation](https://github.com/karinearaujo1/karinearaujo1/blob/output/snake.svg)
 
 
-## 📊 Statistics from GitHub
+## 📊 GitHub Statistics  
 
 ![Karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=radical)
 
