@@ -36,8 +36,12 @@
 
 ![Snake animation](https://github.com/karinearaujo1/karinearaujo1/blob/output/snake.svg)
 
-## 📊 Estatísticas
 
-![Karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=synthwave)
+## 📊 Estatísticas do GitHub
+
+![Karine's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinearaujo1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinearaujo1&layout=compact&theme=radical)
+
 
 
